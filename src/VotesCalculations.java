@@ -5,7 +5,7 @@ import java.util.Scanner; //declare scanner object to take in info
     include the number of votes for each candidate, percentage of total votes 
     and the total number of votes.
     */
-public class VotesCalculations {
+public class VoteCalculations {
 
     public static final int SIZE = 2; //Final to use throughout the class
    
